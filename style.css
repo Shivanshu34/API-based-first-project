@@ -33,7 +33,6 @@
 .front-p{
     height : 26vh;
     width : 70vw;
-    /* border : 2px solid black; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,7 +41,6 @@
 .front-p div{
     height : 17vh;
     width : 55vw;
-    /* border : 2px solid black; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -73,8 +71,6 @@
     transition: width 1s ease-in;
     background-color: #1B1725;
     display: flex;
-    /* justify-content: center;
-    align-items: center; */
     display: none;
 }
 
@@ -130,8 +126,6 @@
     transition: width 1s ease-in;
     background-color: #1B2F33;
     display: flex;
-    /* justify-content: center;
-    align-items: center; */
     display: none;
 }
 
@@ -186,7 +180,6 @@
     top : -11px;
     border-radius : 5px;
     box-shadow: 1px 2px 2px #6E8898;
-    /* border : none; */
 }
 
 
@@ -196,8 +189,6 @@
     transition: width 1s ease-in;
     background-color: #222222;
     display: flex;
-    /* justify-content: center;
-    align-items: center; */
     display: none;
 }
 
@@ -230,9 +221,6 @@
     border-radius: 5px;
     border : 0.5px solid black;
     font-family: "Work Sans", sans-serif;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 
 .get3 button{
